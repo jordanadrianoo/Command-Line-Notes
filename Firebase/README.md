@@ -1,4 +1,4 @@
-#Firebase Command lines
+# Firebase Command lines
 
 |                commands  $                   |                   definition:                              |
 |----------------------------------------------|------------------------------------------------------------|
