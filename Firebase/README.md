@@ -7,4 +7,6 @@
 |  firebase deploy                             |    lauches a global server of the director currently in    |
 |  ls                                          |    Shows all folders within current directory              |
 |  cd ~                                        |    Changes directory to set home directory.                |
+|  cd "desired directory"                      |    changes directory to desired directory                  |
+|cd ..                                         |    Changes directory back one                              |
 
