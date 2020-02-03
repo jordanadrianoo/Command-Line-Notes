@@ -1,5 +1,7 @@
 # Firebase Command lines
 
+This section will keep track of helpful commands used throughout Google's Firebase.
+
 |                commands  $                   |                   definition:                              |
 |----------------------------------------------|------------------------------------------------------------|
 |  firebase init                               |    sets up the foundation files for a website              |
