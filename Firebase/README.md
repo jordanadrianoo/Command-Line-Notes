@@ -1,5 +1,5 @@
 #Firebase Command lines
 
-|                commands  $                   |                   Explanation                              |
+|                commands  $                   |                   definition                               |
 |----------------------------------------------|------------------------------------------------------------|
-|firebase init                                 |    sets up the proper files to                           |
+|  firebase init                               |    sets up the foundation files for a website              |
