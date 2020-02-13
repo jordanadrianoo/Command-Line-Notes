@@ -22,9 +22,12 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  ping (ip-address)                           |    Check if your computer can connect to targeted computer         |
 |  **press** "*Ctrl + C*"                      |    To stop ping or stop current task                               |
 
+# System Information Commands
 
-# Creating Documents 
+
+# Documents Commands
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
 |  mkdir (name for new document)               |    Creates a new file in current directory                         |
 |  touch                                       |    Creates an empty file                                           |
+|  
