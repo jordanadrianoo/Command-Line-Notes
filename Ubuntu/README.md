@@ -1,6 +1,7 @@
 # Ubuntu Command lines
 
 This section will keep track of helpful commands used throughout Ubuntu.os.
+*Note:* any command that starts with press will not have a command to type. Instead, a combination of buttons will be pressed.
 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
