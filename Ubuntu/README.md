@@ -46,6 +46,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |----------------------------------------------|--------------------------------------------------------------------|
 |  mkdir (name for new document)               |  Creates a new file in current directory                           |
 |  touch                                       |  Creates an empty file                                             |
+|  nano (filename)                             |  Creates an empty text file to edit in console command             |
 |  cat (file name)                             |  Opens selected file in the console command                        |
 
 
