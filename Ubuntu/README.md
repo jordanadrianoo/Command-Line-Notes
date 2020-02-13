@@ -21,6 +21,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
 |  date                                        |    Displays the set on ubuntu system currently logged into         |
+|  ip 4 -a                                     |    Displays current users IP-Address                               |
 |  hostname                                    |    Displays host's username                                        |
 |  whoami                                      |    Displays what user you are logged into                          |
 |  uname                                       |    Displays Kernals name                                           |
