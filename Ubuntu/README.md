@@ -21,7 +21,8 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  date                                        |    Displays the set on computer                                    |
 |  hostname                                    |    Displays host's username                                        |
 |  whoami                                      |    Displays what user you are logged into                          |
-|  uname                                       |    Displays Kernal name                                            |
+|  uname                                       |    Displays Kernals name                                           |
+|      uname -s                                |    Display  Kernals name                                           |
 
 
 ## Console Navigation Commands
