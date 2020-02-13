@@ -49,6 +49,8 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  nano (filename)                             |  Creates an empty text file to edit in console command             |
 |  cat (file name)                             |  Opens selected file in the console command                        |
 |  vi (file name)                              |  Edit existing file with console command                           |
+|  
+
 
 
 
