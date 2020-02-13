@@ -8,9 +8,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-|  date                                        |    Displays the set on computer                                    |
-|  hostname                                    |    Displays host's username                                        |
-|  whoami                                      |    Displays what user you are logged into                          |
+
 |  echo (message to echo)                      |    Diplays what message you typed                                  |
 |  clear                                       |    Clears the Console Command                                      |
 |  ls                                          |    Shows all folders within current directory                      |
@@ -23,6 +21,12 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  **press** "*Ctrl + C*"                      |    To stop ping or stop current task                               |
 
 ## System Information Commands
+
+|                commands  $                   |                           definition:                              |
+|----------------------------------------------|--------------------------------------------------------------------|
+|  date                                        |    Displays the set on computer                                    |
+|  hostname                                    |    Displays host's username                                        |
+|  whoami                                      |    Displays what user you are logged into                          |
 
 
 ## Documents Commands
