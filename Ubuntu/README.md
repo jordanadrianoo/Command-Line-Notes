@@ -22,12 +22,12 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  hostname                                    |    Displays host's username                                        |
 |  whoami                                      |    Displays what user you are logged into                          |
 |  uname                                       |    Displays Kernals name                                           |
-|  uname -s                                    |    Display  Kernals released                                       |
-|  uname -r                                    |    Display  Kernals Hardware                                       |
-|  uname -v                                    |    Display  Kernals operating system                               |
-|  uname -m                                    |    Display  Kernals                                            |
-|  uname -o                                    |    Display  Kernals name                                           |
-|  uname -a                                    |    Display  Kernals name                                           |
+|  uname -s                                    |    Display  Kernals Name                                           |
+|  uname -r                                    |    Display  Kernals Released                                       |
+|  uname -v                                    |    Display  Kernals Version                                        |
+|  uname -m                                    |    Display  Kernals Hardware                                       |
+|  uname -o                                    |    Display  Kernals OS                                             |
+|  uname -a                                    |    Display  Kernals All information                                |
 
 ## Console Navigation Commands
 |                commands  $                   |                           definition:                              |
