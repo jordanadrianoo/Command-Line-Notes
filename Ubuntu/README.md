@@ -8,6 +8,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
+|  sudo apt-get update                         |    Checks and Fetches updates for Ubuntu Os                        |
 |  echo (message to echo)                      |    Diplays what message you typed                                  |
 |  clear                                       |    Clears the Console Command                                      |
 |  ping www.google.com                         |    Check if you have internet comnection                           |
