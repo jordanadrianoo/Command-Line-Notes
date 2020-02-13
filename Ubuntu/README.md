@@ -8,6 +8,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
+| man is                                       |    Displays the user manuel                                        |
 |  sudo apt-get update                         |    Checks and Fetches updates for Ubuntu Os                        |
 |  sudo apt-get upgrade                        |    Updates ubuntus system to latest version                        |
 |  echo (message to echo)                      |    Diplays what message you typed                                  |
@@ -45,11 +46,11 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 ## Documents Commands
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-|  mkdir (name for new document)               |  Creates a new file in current directory                           |
-|  touch                                       |  Creates an empty file                                             |
-|  nano (filename)                             |  Creates an empty text file to edit in console command             |
-|  cat (file name)                             |  Opens selected file in the console command                        |
-|  vi (file name)                              |  Edit existing file with console command                           |
+|  mkdir (name for new document)               |    Creates a new file in current directory                         |
+|  touch                                       |    Creates an empty file                                           |
+|  nano (filename)                             |    Creates an empty text file to edit in console command           |
+|  cat (file name)                             |    Opens selected file in the console command                      |
+|  vi (file name)                              |    Edit existing file with console command                         |
 
 
 
