@@ -27,13 +27,13 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  ip 4 -a                                     |    Displays current users IP-Address                               |
 |  hostname                                    |    Displays host's username                                        |
 |  whoami                                      |    Displays what user you are logged into                          |
-|  uname                                       |    Displays Kernals name                                           |
-|  uname -s                                    |    Displays Kernals Name                                           |
-|  uname -r                                    |    Displays Kernals Released                                       |
-|  uname -v                                    |    Displays Kernals Version                                        |
-|  uname -m                                    |    Displays Kernals Hardware                                       |
-|  uname -o                                    |    Displays Kernals OS                                             |
-|  uname -a                                    |    Displays Kernals All information                                |
+|  uname                                       |    Displays Kernels name                                           |
+|  uname -s                                    |    Displays Kernels Name                                           |
+|  uname -r                                    |    Displays Kernels Released                                       |
+|  uname -v                                    |    Displays Kernels Version                                        |
+|  uname -m                                    |    Displays Kernels Hardware                                       |
+|  uname -o                                    |    Displays Kernels OS                                             |
+|  uname -a                                    |    Displays Kernels All information                                |
 
 ## Console Navigation Commands
 |                commands  $                   |                           definition:                              |
