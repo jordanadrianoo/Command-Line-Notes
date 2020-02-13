@@ -45,10 +45,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  touch                                       |    Creates an empty file                                           |
 
 
-<style>
- table { table-layout: fixed; }
- table th, table td { overflow: hidden; }
-</style>
+
 
 <table class="span12">
   <thead>
