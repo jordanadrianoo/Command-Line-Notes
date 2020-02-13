@@ -8,7 +8,6 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-
 |  echo (message to echo)                      |    Diplays what message you typed                                  |
 |  clear                                       |    Clears the Console Command                                      |
 |  ls                                          |    Shows all folders within current directory                      |
