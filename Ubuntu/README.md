@@ -60,10 +60,10 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
   <tbody>
     <tr>
       <td>This is an automated email</th>
-      <td>Val 2</th>
-      <td>Val 3</th>
-      <td>Val 4</th>
-      <td>Val 5</th>
+      <td>sfesfesfsfesfsffsf</th>
+      <td>fessssssssssssssssssssssssssssssfff</th>
+      <td>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</th>
+      <td>aa</th>
     </tr>
   </tbody>
 </table>
