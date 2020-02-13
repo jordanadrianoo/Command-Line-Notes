@@ -10,6 +10,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  date                                        |    Displays the set on computer                                    |
 |  hostname                                    |    Displays host's username                                        |
 |  whoami                                      |    Displays what user you are logged into                          |
+|  echo (message to echo)                      |    Diplays what message you typed                                  |
 |  clear                                       |    Clears the Console Command                                      |
 |  ls                                          |    Shows all folders within current directory                      |
 |  pwd                                         |    Shows current directory                                         |         
