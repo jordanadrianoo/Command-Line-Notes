@@ -10,4 +10,4 @@ This section will keep track of helpful commands used throughout NMap hacking to
 |----------------------------------------------|--------------------------------------------------------------------|
 |  Sudo apt-get install nmap                   |    Installs nmap through the console command                       |
 |  man nmap                                    |    Displays the NMap Manual page                                   |
-|  
+|  nmap --help                                 |    Displays the NMap Manual in the console                         |
