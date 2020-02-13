@@ -8,4 +8,6 @@ This section will keep track of helpful commands used throughout NMap hacking to
 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
+|  Sudo apt-get install nmap                   |    Installs nmap through the console command                       |
+
 
