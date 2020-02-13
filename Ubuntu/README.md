@@ -53,7 +53,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 <table class="span12">
   <thead>
     <tr>
-      <th style="width: 30%">Col 1</th>
+      <th style="width: 30%">Hello there</th>
       <th style="width: 20%">Col 2</th>
       <th style="width: 10%">Col 3</th>
       <th style="width: 30%">Col 4</th>
@@ -62,7 +62,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
   </thead>
   <tbody>
     <tr>
-      <td>Val 1</th>
+      <td>This is an automated email</th>
       <td>Val 2</th>
       <td>Val 3</th>
       <td>Val 4</th>
