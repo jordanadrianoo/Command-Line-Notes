@@ -18,12 +18,16 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-|  date                                        |    Displays the set on computer                                    |
+|  date                                        |    Displays the set on ubuntu system currently logged into                            |
 |  hostname                                    |    Displays host's username                                        |
 |  whoami                                      |    Displays what user you are logged into                          |
 |  uname                                       |    Displays Kernals name                                           |
-|      uname -s                                |    Display  Kernals name                                           |
-
+|  uname -s                                    |    Display  Kernals released version at time of launch             |
+|  uname -r                                    |    Display  Kernals name                                           |
+|  uname -v                                    |    Display  Kernals name                                           |
+|  uname -m                                    |    Display  Kernals name                                           |
+|  uname -o                                    |    Display  Kernals name                                           |
+|  uname -a                                    |    Display  Kernals name                                           |
 
 ## Console Navigation Commands
 |                commands  $                   |                           definition:                              |
