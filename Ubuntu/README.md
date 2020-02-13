@@ -9,6 +9,7 @@ Example: press "Ctrl + Alt + Shift"
 ```
 
 
+
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
 |  ls                                          |    Shows all folders within current directory                      |
