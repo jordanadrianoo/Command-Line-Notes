@@ -8,7 +8,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
 |  date                                        |    Displays the set on computer                                    |
-|  
+|  hostname                                    |    Displays host's username                                        |
 |  ls                                          |    Shows all folders within current directory                      |
 |  cd ~                                        |    Changes directory to set home directory.                        |
 |  cd (desired directory)                      |    changes directory to desired directory                          |
