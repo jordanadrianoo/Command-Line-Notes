@@ -56,7 +56,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 
 ## Reference Links
 
-[Ubuntu's Offical Page](https://ubuntu.com/)
-[Ubuntu Desktop Download](https://ubuntu.com/download/desktop)
+- [Ubuntu's Offical Page](https://ubuntu.com/)
+- [Ubuntu Desktop Download](https://ubuntu.com/download/desktop)
 
 
