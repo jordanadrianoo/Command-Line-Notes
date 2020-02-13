@@ -18,13 +18,13 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-|  date                                        |    Displays the set on ubuntu system currently logged into                            |
+|  date                                        |    Displays the set on ubuntu system currently logged into         |
 |  hostname                                    |    Displays host's username                                        |
 |  whoami                                      |    Displays what user you are logged into                          |
 |  uname                                       |    Displays Kernals name                                           |
-|  uname -s                                    |    Display  Kernals released version at time of launch             |
-|  uname -r                                    |    Display  Kernals name                                           |
-|  uname -v                                    |    Display  Kernals name                                           |
+|  uname -s                                    |    Display  Kernals released version                               |
+|  uname -r                                    |    Display  Kernals Hardware                                       |
+|  uname -v                                    |    Display  Kernals operating system                               |
 |  uname -m                                    |    Display  Kernals name                                           |
 |  uname -o                                    |    Display  Kernals name                                           |
 |  uname -a                                    |    Display  Kernals name                                           |
