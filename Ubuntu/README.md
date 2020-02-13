@@ -10,6 +10,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  date                                        |    Displays the set on computer                                    |
 |  hostname                                    |    Displays host's username                                        |
 |  whoami                                      |    Displays what user you are logged into                          |
+|  clear                                       |    Clears the Console Command                                      |
 |  ls                                          |    Shows all folders within current directory                      |
 |  pwd                                         |    Shows current directory                                         |         
 |  cd ~                                        |    Changes directory to set home directory                         |
@@ -18,4 +19,4 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  ping www.google.com                         |    Check if you have internet comnection                           |
 |  ping (ip-address)                           |    Check if your computer can connect to targeted computer         |
 |  **press** "*Ctrl + C*"                      |    To stop ping or stop current task                               |
-|  
+| 
