@@ -45,28 +45,4 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  touch                                       |    Creates an empty file                                           |
 
 
-<style>
- table { table-layout: fixed; }
- table th, table td { overflow: hidden; }
-</style>
 
-<table class="span12">
-  <thead>
-    <tr>
-      <th style="width: 30%">Hello there</th>
-      <th style="width: 20%">Col 2</th>
-      <th style="width: 10%">Col 3</th>
-      <th style="width: 30%">Col 4</th>
-      <th style="width: 10%">Col 5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>This is an automated email</th>
-      <td>sfesfesfsfesfsffsf</th>
-      <td>fessssssssssssssssssssssssssssssfff</th>
-      <td>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</th>
-      <td>aa</th>
-    </tr>
-  </tbody>
-</table>
