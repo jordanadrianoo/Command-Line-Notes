@@ -10,4 +10,4 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  cd ..                                       |    Changes directory back one                                      |
 |  ping www.google.com                         |    Check if you have internet comnection      |
 |  ping (ip-address)                           |    Check if your computer can connect to targeted computer         |
-|  *press* **Ctrl + C**                    |    To stop ping or stop current task                               |
+|  *press* "**Ctrl + C**"                    |    To stop ping or stop current task                               |
