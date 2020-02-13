@@ -9,6 +9,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
 |   man is                                     |    Displays the user manuel                                        | 
+|   ls --help                                  |    Displays the user manuel in the console command                 |
 |  sudo apt-get update                         |    Checks and Fetches updates for Ubuntu Os                        |
 |  sudo apt-get upgrade                        |    Updates ubuntus system to latest version                        |
 |  echo (message to echo)                      |    Diplays what message you typed                                  |
