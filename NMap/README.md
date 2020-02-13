@@ -2,7 +2,7 @@
 
 This section will keep track of helpful commands used throughout NMap hacking tool.
 
-***Warning:*** NMap is an offical Hacking tool that must be used with the utmost caution. Intended use is meant for ethical or green hat hackers. **Never hack without permission.**
+***Warning:*** NMap is an offical Hacking tool that must be used with the utmost caution. Intended use is meant for *Ethical* or *Green Hat* hackers. **Never Hack Without Permission.**
 
 ***Note:*** any command that starts with **press** will not have a command to type in the console, but instead, a combination of buttons that will be pressed together.
  
