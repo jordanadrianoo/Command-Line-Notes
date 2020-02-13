@@ -43,4 +43,30 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |----------------------------------------------|--------------------------------------------------------------------|
 |  mkdir (name for new document)               |    Creates a new file in current directory                         |
 |  touch                                       |    Creates an empty file                                           |
-|  
+
+
+<style>
+ table { table-layout: fixed; }
+ table th, table td { overflow: hidden; }
+</style>
+
+<table class="span12">
+  <thead>
+    <tr>
+      <th style="width: 30%">Col 1</th>
+      <th style="width: 20%">Col 2</th>
+      <th style="width: 10%">Col 3</th>
+      <th style="width: 30%">Col 4</th>
+      <th style="width: 10%">Col 5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Val 1</th>
+      <td>Val 2</th>
+      <td>Val 3</th>
+      <td>Val 4</th>
+      <td>Val 5</th>
+    </tr>
+  </tbody>
+</table>
