@@ -4,7 +4,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 
 ***Note:*** any command that starts with press will not have a command to type. Instead, a combination of buttons will be pressed.
  
- # General Commands
+ ## General Commands
 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
@@ -22,10 +22,10 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  ping (ip-address)                           |    Check if your computer can connect to targeted computer         |
 |  **press** "*Ctrl + C*"                      |    To stop ping or stop current task                               |
 
-# System Information Commands
+## System Information Commands
 
 
-# Documents Commands
+## Documents Commands
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
 |  mkdir (name for new document)               |    Creates a new file in current directory                         |
