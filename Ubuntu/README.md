@@ -28,6 +28,10 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  whoami                                      |    Displays what user you are logged into                          |
 
 
+## Console Navigation Commands
+|                commands  $                   |                           definition:                              |
+|----------------------------------------------|--------------------------------------------------------------------|
+
 ## Documents Commands
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
