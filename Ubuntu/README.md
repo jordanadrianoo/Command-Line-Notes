@@ -44,8 +44,9 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 ## Documents Commands
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-|  mkdir (name for new document)               |    Creates a new file in current directory                         |
-|  touch                                       |    Creates an empty file                                           |
+|  mkdir (name for new document)               |  Creates a new file in current directory                           |
+|  touch                                       |  Creates an empty file                                             |
+|  cat (file name)                             |  Opens selected file in the console command                        |
 
 
 
