@@ -12,7 +12,7 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |   ls --help                                  |    Displays the user manual in the console command                 |
 |  sudo apt-get update                         |    Checks and Fetches updates for Ubuntu Os                        |
 |  sudo apt-get upgrade                        |    Updates ubuntus system to latest version                        |
-|  echo (message to echo)                      |    Diplays what message you typed                                  |
+|  echo (message to echo)                      |    Displays what message you typed                                  |
 |  clear                                       |    Clears the Console Command                                      |
 |  ping www.google.com                         |    Check if you have internet comnection                           |
 |  ping (ip-address)                           |    Check if your computer can connect to targeted computer         |
@@ -28,12 +28,12 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 |  hostname                                    |    Displays host's username                                        |
 |  whoami                                      |    Displays what user you are logged into                          |
 |  uname                                       |    Displays Kernals name                                           |
-|  uname -s                                    |    Display  Kernals Name                                           |
-|  uname -r                                    |    Display  Kernals Released                                       |
-|  uname -v                                    |    Display  Kernals Version                                        |
-|  uname -m                                    |    Display  Kernals Hardware                                       |
-|  uname -o                                    |    Display  Kernals OS                                             |
-|  uname -a                                    |    Display  Kernals All information                                |
+|  uname -s                                    |    Displays Kernals Name                                           |
+|  uname -r                                    |    Displays Kernals Released                                       |
+|  uname -v                                    |    Displays Kernals Version                                        |
+|  uname -m                                    |    Displays Kernals Hardware                                       |
+|  uname -o                                    |    Displays Kernals OS                                             |
+|  uname -a                                    |    Displays Kernals All information                                |
 
 ## Console Navigation Commands
 |                commands  $                   |                           definition:                              |
