@@ -25,4 +25,4 @@ This section will keep track of helpful commands used throughout Ubuntu.os.
 # Creating Documents 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-|  whoami                                      |    Displays what user you are logged into                          |
+|  mkdir (name for new document)               |    Creates a new file in current directory                         |
