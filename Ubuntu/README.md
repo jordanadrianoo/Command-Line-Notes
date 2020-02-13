@@ -2,9 +2,9 @@
 
 This section will keep track of helpful commands used throughout Ubuntu.os.
 
-|                commands  $                   |                   definition:                              |
-|----------------------------------------------|------------------------------------------------------------|
-|  ls                                          |    Shows all folders within current directory              |
+|                commands  $                   |                           definition:                              |
+|----------------------------------------------|--------------------------------------------------------------------|
+|  ls                                          |    Shows all folders within current directory                      |
 |  cd ~                                        |    Changes directory to set home directory.                        |
 |  cd "desired directory"                      |    changes directory to desired directory                          |
 |  cd ..                                       |    Changes directory back one                                      |
