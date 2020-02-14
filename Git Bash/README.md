@@ -17,3 +17,8 @@ This section will keep track of helpful commands used throughout Git Bash.
 |cd ..                                         |    Changes directory back one                              |
 |git config user.name                          |    Shows what username is currently set                    |
 |git config user.name                          |    Shows what username is currently set                    |
+
+## Navigation Commands
+|                commands  $                   |                   Explanation                              |
+|----------------------------------------------|------------------------------------------------------------|
+|git help                                      |    Shows the entire help index                             |
