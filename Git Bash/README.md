@@ -14,3 +14,4 @@ This section will keep track of helpful commands used throughout Git Bash.
 |whoami                                        |    Displays what user you are logged into                  |
 |pwd                                           |    Shows what directory you are currently in               |
 |ls                                            |    Shows all folders within current directory              |
+|cd ~                                          |    Changes directory to set home directory.                |
