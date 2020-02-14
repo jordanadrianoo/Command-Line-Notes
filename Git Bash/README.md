@@ -10,4 +10,5 @@ This section will keep track of helpful commands used throughout Git Bash.
 |                commands  $                   |                   Explanation                              |
 |----------------------------------------------|------------------------------------------------------------|
 |git help                                      |    Shows the entire help index                             |
+|git -- version                                |    Displays what Git Bash Version you have installed       |
 
