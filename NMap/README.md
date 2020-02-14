@@ -19,5 +19,5 @@ This section will keep track of helpful commands used throughout NMap hacking to
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
 |  sudo apt-get install openssh-server         |    Installs an open SSH Port on current computer                   |
-|  ps-aux "|" grep ssh                           |    Checks status of SSH Port                                       |
+|  ps-aux \| grep ssh                           |    Checks status of SSH Port                                       |
 
