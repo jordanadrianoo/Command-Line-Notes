@@ -15,7 +15,7 @@ This section will keep track of helpful commands used throughout NMap hacking to
 |  nmap --help                                 |    Displays the NMap Manual in the console                         |
 |  ssh (username)@(Victim's ip)                |    Logs into victim's computer                                     |
 |  nmap -v (Victim's ip)                       |    Scans victim's verbose output                                   |
-|  Nmap -v =sV -O (Victim's ip)                |
+|  Nmap -v =sV -O (Victim's ip)                |    Attempts to see what OS the user is using by sending packages   |
 
  ## Port Commands
 
