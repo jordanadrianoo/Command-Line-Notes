@@ -18,7 +18,11 @@ This section will keep track of helpful commands used throughout Git Bash.
 |git config user.name                          |    Shows what username is currently set                    |
 |git config user.name                          |    Shows what username is currently set                    |
 
-## Navigation Commands
-|                commands  $                   |                   Explanation                              |
-|----------------------------------------------|------------------------------------------------------------|
-|git help                                      |    Shows the entire help index                             |
+## Console Navigation Commands
+|                commands  $                   |                           definition:                              |
+|----------------------------------------------|--------------------------------------------------------------------|
+|  ls                                          |    Shows all folders within current directory                      |
+|  pwd                                         |    Shows current directory                                         |         
+|  cd ~                                        |    Changes directory to set home directory                         |
+|  cd (desired directory)                      |    changes directory to desired directory                          |
+|  cd ..                                       |    Changes directory back one                                      |                                |    Shows the entire help index                             |
