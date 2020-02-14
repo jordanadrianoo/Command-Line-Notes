@@ -15,3 +15,4 @@ This section will keep track of helpful commands used throughout Git Bash.
 |pwd                                           |    Shows what directory you are currently in               |
 |ls                                            |    Shows all folders within current directory              |
 |cd ~                                          |    Changes directory to set home directory.                |
+|cd "desired directory"                        |    changes directory to desired directory                  |
