@@ -1,2 +1,3 @@
 # Command-Line-Notes
-This repository will help note helpful commands used throughout various projects. 
+
+This Repository is designed to markdown a growing number of project tools, commands, and shortcuts. A collective library for upcoming coders to reference.
