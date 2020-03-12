@@ -14,3 +14,5 @@ sudo apt-get install vim
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
 |  sudo apt-get install vim                    |    Installs Vim to the computer                                    |
+|  vim Example.txt                             |    Open a file in the Vim editor                                   |
+
