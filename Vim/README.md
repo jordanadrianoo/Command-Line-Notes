@@ -7,5 +7,5 @@ This section will keep track of helpful commands used throughout Vim editing too
 To install vim, we must use the console command -
 
 ```
-sudo apt-get vim
+sudo apt-get install vim
 ```
