@@ -27,6 +27,14 @@ This section will keep track of helpful commands used throughout NMap hacking to
 |:wq saves and quits|
 | sudo apt-get install fswatch| tool to watch ssh |
 |metasploitable login: msfadmin passwords: msfadmin|
+| shift + pageUp or shift + pageDown |
+| sudo apt-get install curl|
+| curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
+chmod 755 msfinstall && \
+./msfinstall| installs metaspoit tools|
+
+
+
 
 
 
