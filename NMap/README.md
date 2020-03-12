@@ -20,6 +20,7 @@ This section will keep track of helpful commands used throughout NMap hacking to
 |  sudo tcpdmp                                 |    Shows what the computer is connecting to                        |
 |  sudo tcpdump -i enp0s3                      |    Shows what is connecting to the computer                        |
 |  vim                                         |    dd to delte line i for insert u to undo y to copy p to paste    |
+| dw to delete all in front of the cursor 
 
  ## Port Commands
 
