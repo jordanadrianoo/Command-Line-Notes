@@ -13,6 +13,7 @@ sudo apt-get install vim
 ## Vim Command Library
 
 ### Vim File Commands -
+
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
 |  sudo apt-get install vim                    |    Installs Vim to the computer                                    |
@@ -21,5 +22,7 @@ sudo apt-get install vim
 
 ### Vim Menu Commands -
 
+|                commands  $                   |                           definition:                              |
+|----------------------------------------------|--------------------------------------------------------------------|
 
 
