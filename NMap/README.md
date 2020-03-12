@@ -25,6 +25,7 @@ This section will keep track of helpful commands used throughout NMap hacking to
 | sudo apt-get install vim                    |  install vim  |
 |chmod +x Example_file  | sets file to execute |
 |:wq saves and quits|
+| sudo apt-get install fswatch| tool to watch ssh |
 
 
 
