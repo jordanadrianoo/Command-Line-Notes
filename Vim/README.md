@@ -4,7 +4,7 @@ This section will keep track of helpful commands used throughout Vim editing too
 
 ## Installing Vim
 
-To install vim, we must use the console command.
+To install vim, we must use the console command-
 
 ```
 sudo apt-get vim
