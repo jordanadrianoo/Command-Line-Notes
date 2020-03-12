@@ -16,7 +16,7 @@ This section will keep track of helpful commands used throughout NMap hacking to
 |  ssh (username)@(Victim's ip)                |    Logs into victim's computer                                     |
 |  nmap -v (Victim's ip)                       |    Scans victim's verbose output                                   |
 |  Nmap -v =sV -O (Victim's ip)                |    Attempts to see what OS the user is using by sending packages   |
-|  Hostname -I                                 |    Only shows your Ip                                              |
+|  hostname -I                                 |    Only shows your Ip                                              |
 |  sudo tcpdmp                                 |    Shows what the computer is connecting to                        |
 |  sudo tcpdump -i enp0s3                      |    Shows what is connecting to the computer                        |
 
