@@ -10,7 +10,7 @@ To install vim, we must use the console command -
 sudo apt-get install vim
 ```
 
-# Vim Command Library
+## Vim Command Library
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
 |  sudo apt-get install vim                    |    Installs Vim to the computer                                    |
