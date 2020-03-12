@@ -24,6 +24,9 @@ This section will keep track of helpful commands used throughout NMap hacking to
 | sudo timeout $1                                 |    sets a timer to timeout a command                               |
 | sudo apt-get install vim                    |  install vim  |
 |chmod +x Example_file  | sets file to execute |
+|:wq saves and quits|
+
+
 
 
 
