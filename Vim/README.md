@@ -9,3 +9,6 @@ To install vim, we must use the console command -
 ```
 sudo apt-get install vim
 ```
+
+|                commands  $                   |                           definition:                              |
+|----------------------------------------------|--------------------------------------------------------------------|
