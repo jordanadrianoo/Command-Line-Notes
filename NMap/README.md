@@ -8,6 +8,12 @@ This section will keep track of helpful commands used throughout NMap hacking to
  
  # Installing NMap
  
+To install Nmap, we must use the console command -
+
+```
+sudo apt-get install nmap
+```
+
  ## NMap Command Library 
 
 |                commands  $                   |                           definition:                              |
