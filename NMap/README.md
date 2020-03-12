@@ -22,7 +22,6 @@ This section will keep track of helpful commands used throughout NMap hacking to
 |  vim                                         |    dd to delte line i for insert u to undo y to copy p to paste    |
 | dw to delete all in front of the cursor :q! to quit |
 | sudo timeout $1                                 |    sets a timer to timeout a command                               |
-| sudo apt-get install vim                    |  install vim  |
 |chmod +x Example_file  | sets file to execute |
 |:wq saves and quits|
 | sudo apt-get install fswatch| tool to watch ssh |
