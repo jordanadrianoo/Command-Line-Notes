@@ -12,7 +12,8 @@ To install vim, we must use the console command -
 sudo apt-get install vim
 ```
 
-## Vim Command Library
+## Vim Command Library -
+
 
 ### Vim File Commands -
 
@@ -23,7 +24,10 @@ sudo apt-get install vim
 |  vim Example.txt                             |    Open an exsisting file in the Vim editor                        |
 
 ### Vim Instert Mode
-
+|                commands  $                   |                           definition:                              |
+|----------------------------------------------|--------------------------------------------------------------------|
+|  **press** a                                 |    Append after the cursor                                         |
+|  **press** i                                 |
 
 ### Vim Menu Commands -
 
