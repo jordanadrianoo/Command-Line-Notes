@@ -29,6 +29,7 @@ sudo apt-get install vim
 |  **press** i                                 |  This will put the user into Insert Mode                           |
 |  **press** esc                               |  This will exit the current mode back into the menu mode           |
 |  **press** dd                                |  This will delete an entire line of text or code                   |
+|  **press** u                                 |
 
 
 
