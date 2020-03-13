@@ -22,6 +22,9 @@ sudo apt-get install vim
 |  vim Example_new_file                        |    Creates and names a new file                                    |
 |  vim Example.txt                             |    Open an exsisting file in the Vim editor                        |
 
+### Vim Modes
+
+
 ### Vim Menu Commands -
 
 |                commands  $                   |                           definition:                              |
