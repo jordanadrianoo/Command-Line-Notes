@@ -30,6 +30,7 @@ sudo apt-get install vim
 |  **press** esc                               |    This will exit the current mode back into the menu mode         |
 |  **press** dd                                |    Delete an entire line of text or code                           |
 |  **press** dw                                |    Delete the word the cursor is on                                |
+|  **press** dl                                |    Delete the letter the cursor is on                              |
 |  **press** u                                 |    Undo the last action done                                       |
 |  **press** y                                 |    Copy highlighted text or code                                   |
 |  **press** p                                 |    Pase copied text or code                                        |
