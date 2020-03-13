@@ -28,8 +28,8 @@ sudo apt-get install vim
 |----------------------------------------------|--------------------------------------------------------------------|
 |  **press** a                                 |    Insert after the cursor                                         |
 |  **press** i                                 |    Insert before the cursor                                        |
-|  **press** A                                 |    I at the end of the current line                                |
-|
+|  **press** A                                 |    Insert at the end of the current line                           |
+|  **press** I                                 |    Insert at the beginning of the current line                     |
 
 ### Vim Menu Commands -
 
