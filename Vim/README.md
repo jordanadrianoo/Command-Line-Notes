@@ -30,6 +30,7 @@ sudo apt-get install vim
 |  **press** i                                 |    Insert before the cursor                                        |
 |  **press** A                                 |    Insert at the end of the current line                           |
 |  **press** I                                 |    Insert at the beginning of the current line                     |
+|  **press** 
 
 ### Vim Menu Commands -
 
