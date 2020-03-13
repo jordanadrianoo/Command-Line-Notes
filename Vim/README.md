@@ -26,8 +26,10 @@ sudo apt-get install vim
 ### Vim Instert Mode
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-|  **press** a                                 |    insert after the cursor                                         |
-|  **press** i                                 |    insert before the cursor                                        |
+|  **press** a                                 |    Insert after the cursor                                         |
+|  **press** i                                 |    Insert before the cursor                                        |
+|  **press** A                                 |    I at the end of the current line                                |
+|
 
 ### Vim Menu Commands -
 
