@@ -30,7 +30,8 @@ sudo apt-get install vim
 |  **press** i                                 |    Insert before the cursor                                        |
 |  **press** A                                 |    Insert at the end of the current line                           |
 |  **press** I                                 |    Insert at the beginning of the current line                     |
-|  **press** 
+|  **press** C                                 |    Deletes what's in front of the cursor within the same line start typing| 
+|
 
 ### Vim Menu Commands -
 
