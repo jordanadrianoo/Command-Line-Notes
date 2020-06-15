@@ -41,9 +41,8 @@ This section will keep track of helpful commands foudn within windows Command Pr
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
 |  dir                                         |    Shows all folders within current directory                      |
-|  pwd                                         |    Shows current directory                                         |         
-|  cd ~                                        |    Changes directory to set home directory                         |
-|  cd (desired directory)                      |    changes directory to desired directory                          |
+|  cd                                         |    Shows current directory                                         |         
+|  cd <desired directory>                      |    changes directory to desired directory                          |
 |  cd ..                                       |    Changes directory back one                                      |
 
 ## Documents Commands
