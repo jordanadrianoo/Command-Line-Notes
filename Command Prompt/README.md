@@ -9,8 +9,8 @@ This section will keep track of helpful commands foudn within windows Command Pr
 
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-|   man is                                     |    Displays the user manual                                        | 
-|   ls --help                                  |    Displays the user manual in the console command                 |
+|  .. man is                                     |    Displays the user manual                                        | 
+|   ..ls --help                                  |    Displays the user manual in the console command                 |
 |  sudo apt-get update                         |    Checks and Fetches updates for Ubuntu Os                        |
 |  sudo apt-get upgrade                        |    Updates ubuntus system to latest version                        |
 |  echo (message to echo)                      |    Displays what message you typed                                  |
@@ -40,7 +40,7 @@ This section will keep track of helpful commands foudn within windows Command Pr
 ## Console Navigation Commands
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-|  ls                                          |    Shows all folders within current directory                      |
+|  dir                                         |    Shows all folders within current directory                      |
 |  pwd                                         |    Shows current directory                                         |         
 |  cd ~                                        |    Changes directory to set home directory                         |
 |  cd (desired directory)                      |    changes directory to desired directory                          |
