@@ -6,9 +6,10 @@ This section will keep track of helpful commands foudn within windows Command Pr
 ***Note:*** any command that starts with **press** will not have a command to type in the console, but instead, a combination of buttons that will be pressed together.
  
 ## General Commands
+coming soon
 
 ## System Information Commands
-
+coming soon
 
 ## Console Navigation Commands
 |                commands  $                   |                           definition:                              |
@@ -24,5 +25,6 @@ This section will keep track of helpful commands foudn within windows Command Pr
 |  PowerShell Expand-Archive -Path <"zip folder.zip"> <"Desired folder">|    This will unzip a folder into any directory|
 
 ## Reference Links
+coming soon
 
 
