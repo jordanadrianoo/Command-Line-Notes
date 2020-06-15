@@ -21,7 +21,7 @@ This section will keep track of helpful commands foudn within windows Command Pr
 ## Useful Power Commands
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
-|  PowerShell Expand-Archive -Path "<zip folder.zip>" "<Desired folder>"|    This will unzip a folder into any directory|
+|  PowerShell Expand-Archive -Path <"zip folder.zip"> <"Desired folder">|    This will unzip a folder into any directory|
 
 ## Reference Links
 
