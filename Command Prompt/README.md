@@ -22,21 +22,6 @@ This section will keep track of helpful commands foudn within windows Command Pr
 ## System Information Commands
 
 
-|                commands  $                   |                           definition:                              |
-|----------------------------------------------|--------------------------------------------------------------------|
-|  date                                        |    Displays the set on ubuntu system currently logged into         |
-|  history                                     |    Displays recent commands typed in the console command           |
-|  ip 4 -a                                     |    Displays current users IP-Address                               |
-|  hostname                                    |    Displays host's username                                        |
-|  whoami                                      |    Displays what user you are logged into                          |
-|  uname                                       |    Displays Kernels name                                           |
-|  uname -s                                    |    Displays Kernels Name                                           |
-|  uname -r                                    |    Displays Kernels Released                                       |
-|  uname -v                                    |    Displays Kernels Version                                        |
-|  uname -m                                    |    Displays Kernels Hardware                                       |
-|  uname -o                                    |    Displays Kernels OS                                             |
-|  uname -a                                    |    Displays Kernels All information                                |
-
 ## Console Navigation Commands
 |                commands  $                   |                           definition:                              |
 |----------------------------------------------|--------------------------------------------------------------------|
@@ -46,17 +31,7 @@ This section will keep track of helpful commands foudn within windows Command Pr
 |  cd ..                                       |    Changes directory back one                                      |
 
 ## Documents Commands
-|                commands  $                   |                           definition:                              |
-|----------------------------------------------|--------------------------------------------------------------------|
-|  mkdir (name for new document)               |    Creates a new file in current directory                         |
-|  touch                                       |    Creates an empty file                                           |
-|  nano (filename)                             |    Creates an empty text file to edit in console command           |
-|  cat (file name)                             |    Opens selected file in the console command                      |
-|  vi (file name)                              |    Edit existing file with console command                         |
-
 
 ## Reference Links
 
-- [Ubuntu's Offical Page](https://ubuntu.com/)
-- [Ubuntu Desktop Download](https://ubuntu.com/download/desktop)
 
